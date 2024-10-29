@@ -124,22 +124,22 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/peixyhe/CVM_vis_demo.git
-cd CVM_vis_demo-master
+cd CVM_vis_demo-main
 ```
 
 #### 1.2 Create a Conda Environment
 
 This project relies on several libraries, which can be installed via the `environment.yml` file. Key dependencies include:
 
-- **NumPy**: For numerical operations.
-- **Pandas**: For data manipulation and analysis.
-- **SciPy**: For spatial data processing with cKDTree.
-- **Trimesh**: For 3D mesh processing.
-- **VTK**: For 3D visualization and rendering.
-- **xarray**: For handling multi-dimensional arrays.
-- **Scikit-learn**: For machine learning and data mining.
-- **tqdm**: For progress bars.
-- **pymeshlab**: For mesh processing with MeshLab.
+- **NumPy**: For numerical operations;
+- **Pandas**: For data manipulation and analysis;
+- **SciPy**: For spatial data processing with cKDTree;
+- **Trimesh**: For 3D mesh processing;
+- **VTK**: For 3D visualization and rendering;
+- **xarray**: For handling multi-dimensional arrays;
+- **Scikit-learn**: For machine learning and data mining;
+- **tqdm**: For progress bars;
+- **pymeshlab**: For mesh processing with MeshLab;
 - **pyproj**: For geographic projections and coordinate transformations.
 
 Install all required dependencies:
