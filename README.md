@@ -137,7 +137,6 @@ This project relies on several libraries, which can be installed via the `enviro
 - **Trimesh**: For 3D mesh processing;
 - **VTK**: For 3D visualization and rendering;
 - **xarray**: For handling multi-dimensional arrays;
-- **Scikit-learn**: For machine learning and data mining;
 - **tqdm**: For progress bars;
 - **pymeshlab**: For mesh processing with MeshLab;
 - **pyproj**: For geographic projections and coordinate transformations.
