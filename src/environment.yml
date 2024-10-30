@@ -10,7 +10,6 @@ dependencies:
   - vtk=9.2.2
   - xarray=2022.9.0
   - scipy=1.9.2
-  - scikit-learn=1.1.2
   - tqdm=4.66.5
   - pymeshlab=2023.12.post1
   - pyproj=3.4.0
