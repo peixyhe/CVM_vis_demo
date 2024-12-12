@@ -1,11 +1,11 @@
-# Geodynamic Activity Characteristics in the Sichuan–Yunnan Region Revealed by Big Data Analysis
+# Active Tectonic Characteristics in the Sichuan-Yunnan Region Revealed by High-resolution Integrated Community Active Tectonic Model
 
 
 
 ## 0. Description
 
 
-This document presents a novel visualization method for geoscience volume data, utilizing the Community Velocity Model (CVM) "SWChinaCVM-2.0" for the Sichuan–Yunnan region. By integrating scientific visualization techniques such as Ray Casting volume rendering, Marching Cubes Iso-surface extraction, and hybrid rendering, we developed a two-dimensional transfer function related to velocity magnitude to quantitatively represent high- and low-velocity anomalies. Combining geoscience big data, including high-resolution topography, three-dimensional active faults, earthquake catalogs, and the Moho discontinuity, we visually and quantitatively display the spatial distribution and thickness of velocity anomalies at various layers within the CVM. Additionally, we illustrate their relationships with faults, the Moho discontinuity, and historical large earthquake hypocenters using three-dimensional stereograms and animations with varying camera perspectives.
+This document presents a high-resolution integrated community active tectonic model (ICATM) in China's most seismic active intensive Sichuan-Yunnan region. By integrating scientific visualization techniques such as Ray Casting volume rendering, Marching Cubes Iso-surface extraction, and hybrid rendering, we developed a two-dimensional transfer function related to velocity magnitude to quantitatively represent high- and low-velocity anomalies. Combining geoscience big data, including Community Velocity Model("SWChinaCVM-2.0"), high-resolution topography, three-dimensional active faults, earthquake catalogs, and the Moho discontinuity, we visually and quantitatively display the spatial distribution and thickness of velocity anomalies at various layers within the CVM. Additionally, we illustrate their relationships with faults, the Moho discontinuity, and historical large earthquake hypocenters using three-dimensional stereograms and animations with varying camera perspectives.
 
 
 ## 1. Background
@@ -172,7 +172,7 @@ This command inputs the depth of Moho data in TXT format, generating a PNG resul
 
 If this work is useful to you, please cite the following source:
 
-He, Pei, et al. "Geodynamic Activity Characteristics in the Sichuan–Yunnan Region Revealed by Big Data Analysis." This work is currently under review, and specific publication details will be provided upon acceptance.
+He, Pei, et al. "Active Tectonic Characteristics in the Sichuan-Yunnan Region Revealed by High-resolution Integrated Community Active Tectonic Model". This work is currently under review, and specific publication details will be provided upon acceptance.
 
 ## License
 
